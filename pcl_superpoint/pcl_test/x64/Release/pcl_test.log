@@ -1,0 +1,30 @@
+﻿  region_growing.cpp
+d:\packages\pcl\pcl 1.9.0\include\pcl-1.9\pcl\point_traits.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  The use of BOOST_*_ENDIAN and BOOST_BYTE_ORDER is deprecated. Please include <boost/predef/other/endian.h> and use BOOST_ENDIAN_*_BYTE instead
+d:\packages\pcl\pcl 1.9.0\include\pcl-1.9\pcl\visualization\interactor_style.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\packages\pcl\pcl 1.9.0\include\pcl-1.9\pcl\visualization\pcl_visualizer.h(1609): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\packages\pcl\pcl 1.9.0\include\pcl-1.9\pcl\visualization\impl\pcl_visualizer.hpp(1545): warning C4996: 'vtkMapper::ImmediateModeRenderingOff': was declared deprecated
+  d:\packages\pcl\pcl 1.9.0\3rdparty\vtk\include\vtk-8.1\vtkmapper.h(218): note: see declaration of 'vtkMapper::ImmediateModeRenderingOff'
+  d:\packages\pcl\pcl 1.9.0\include\pcl-1.9\pcl\visualization\pcl_visualizer.h(919): note: see reference to function template instantiation 'bool pcl::visualization::PCLVisualizer::updatePointCloud<pcl::PointXYZ>(const boost::shared_ptr<const pcl::PointCloud<pcl::PointXYZ>> &,const std::string &)' being compiled
+  d:\packages\vcpkg\installed\x64-windows\include\boost\bind\placeholders.hpp(54): note: see reference to class template instantiation 'boost::arg<9>' being compiled
+  d:\packages\vcpkg\installed\x64-windows\include\boost\bind\placeholders.hpp(53): note: see reference to class template instantiation 'boost::arg<8>' being compiled
+  d:\packages\vcpkg\installed\x64-windows\include\boost\bind\placeholders.hpp(52): note: see reference to class template instantiation 'boost::arg<7>' being compiled
+  d:\packages\vcpkg\installed\x64-windows\include\boost\bind\placeholders.hpp(51): note: see reference to class template instantiation 'boost::arg<6>' being compiled
+  d:\packages\vcpkg\installed\x64-windows\include\boost\bind\placeholders.hpp(50): note: see reference to class template instantiation 'boost::arg<5>' being compiled
+  d:\packages\vcpkg\installed\x64-windows\include\boost\bind\placeholders.hpp(49): note: see reference to class template instantiation 'boost::arg<4>' being compiled
+  d:\packages\vcpkg\installed\x64-windows\include\boost\bind\placeholders.hpp(48): note: see reference to class template instantiation 'boost::arg<3>' being compiled
+  d:\packages\vcpkg\installed\x64-windows\include\boost\bind\placeholders.hpp(47): note: see reference to class template instantiation 'boost::arg<2>' being compiled
+  d:\packages\vcpkg\installed\x64-windows\include\boost\bind\placeholders.hpp(46): note: see reference to class template instantiation 'boost::arg<1>' being compiled
+d:\packages\pcl\pcl 1.9.0\include\pcl-1.9\pcl\visualization\impl\pcl_visualizer.hpp(1664): warning C4996: 'vtkMapper::ImmediateModeRenderingOff': was declared deprecated
+  d:\packages\pcl\pcl 1.9.0\3rdparty\vtk\include\vtk-8.1\vtkmapper.h(218): note: see declaration of 'vtkMapper::ImmediateModeRenderingOff'
+  d:\packages\pcl\pcl 1.9.0\include\pcl-1.9\pcl\visualization\pcl_visualizer.h(932): note: see reference to function template instantiation 'bool pcl::visualization::PCLVisualizer::updatePointCloud<pcl::PointXYZRGB>(const boost::shared_ptr<const pcl::PointCloud<pcl::PointXYZRGB>> &,const pcl::visualization::PointCloudColorHandler<PointT> &,const std::string &)' being compiled
+          with
+          [
+              PointT=pcl::PointXYZRGB
+          ]
+  Generating code
+  1 of 1924 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  pcl_test.vcxproj -> E:\VsProjects\pcl_test\x64\Release\pcl_test.exe

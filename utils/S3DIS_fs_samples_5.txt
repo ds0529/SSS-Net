@@ -1,0 +1,10 @@
+Area_1_copyRoom_1.ply
+Area_1_office_1.ply
+Area_2_auditorium_1.ply
+Area_2_conferenceRoom_1.ply
+Area_3_lounge_1.ply
+Area_3_storage_1.ply
+Area_4_lobby_1.ply
+Area_4_WC_1.ply
+Area_6_hallway_1.ply
+Area_6_pantry_1.ply

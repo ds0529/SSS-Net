@@ -1,0 +1,20 @@
+Class_0 Result: iou/accuracy 0.7283/0.9530, name: wall.
+Class_1 Result: iou/accuracy 0.9421/0.9792, name: floor.
+Class_2 Result: iou/accuracy 0.4155/0.5264, name: chair.
+Class_3 Result: iou/accuracy 0.6714/0.7369, name: table.
+Class_4 Result: iou/accuracy 0.7626/0.8450, name: desk.
+Class_5 Result: iou/accuracy 0.6092/0.8572, name: bed.
+Class_6 Result: iou/accuracy 0.5925/0.7104, name: bookshelf.
+Class_7 Result: iou/accuracy 0.3378/0.4045, name: sofa.
+Class_8 Result: iou/accuracy 0.4192/0.5231, name: sink.
+Class_9 Result: iou/accuracy 0.6481/0.7476, name: bathtub.
+Class_10 Result: iou/accuracy 0.1086/0.1260, name: toilet.
+Class_11 Result: iou/accuracy 0.3837/0.4094, name: curtain.
+Class_12 Result: iou/accuracy 0.4338/0.5952, name: counter.
+Class_13 Result: iou/accuracy 0.4391/0.5566, name: door.
+Class_14 Result: iou/accuracy 0.2646/0.2750, name: window.
+Class_15 Result: iou/accuracy 0.4696/0.5149, name: shower curtain.
+Class_16 Result: iou/accuracy 0.7473/0.7785, name: refridgerator.
+Class_17 Result: iou/accuracy 0.4434/0.4803, name: picture.
+Class_18 Result: iou/accuracy 0.7248/0.7462, name: cabinet.
+Class_19 Result: iou/accuracy 0.3339/0.3869, name: otherfurniture.

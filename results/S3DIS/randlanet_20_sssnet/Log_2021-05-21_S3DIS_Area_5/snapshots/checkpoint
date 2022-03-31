@@ -1,0 +1,5 @@
+model_checkpoint_path: "snap-7501"
+all_model_checkpoint_paths: "snap-501"
+all_model_checkpoint_paths: "snap-1501"
+all_model_checkpoint_paths: "snap-3501"
+all_model_checkpoint_paths: "snap-7501"
